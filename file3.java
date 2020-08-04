@@ -1,3 +1,5 @@
+Master branch change to demo trivial merge
+
 bin
 boot
 dev
@@ -20,3 +22,4 @@ usr
 vagrant
 var
 second commit on feature 1 branch
+
