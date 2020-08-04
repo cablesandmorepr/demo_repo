@@ -22,4 +22,4 @@ var
 Making changes on feature1 branch
 demo conflict changes demo from master
 making a change in feature 3 branch to demo conflicting merge
-
+junk modification -- will undo the change
