@@ -30,10 +30,13 @@ meaningfull modification
 
 >>>>>>> parent of e5f2e26... Junk modification - will undo the the change
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> parent of e5f2e26... Junk modification - will undo the the change
 =======
 >>>>>>> parent of 11c8c05... meanigfull modification
+=======
+>>>>>>> parent of 2b2d715... Revert "Junk modification - will undo the the change"
 =======
 >>>>>>> parent of 2b2d715... Revert "Junk modification - will undo the the change"
