@@ -19,6 +19,7 @@ tmp
 usr
 vagrant
 var
-I am making changes on the master branch
 Making changes on feature1 branch
-demo aconflicting changes demo from master
+demo conflict changes demo from master
+making a change in feature 3 branch to demo conflicting merge
+
