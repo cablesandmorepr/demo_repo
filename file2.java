@@ -25,6 +25,7 @@ making a change in feature 3 branch to demo conflicting merge
 <<<<<<< HEAD
 <<<<<<< HEAD
 junk modification -- will undo the change
+<<<<<<< HEAD
 meaningfull modification
 =======
 
@@ -32,3 +33,5 @@ meaningfull modification
 =======
 
 >>>>>>> parent of e5f2e26... Junk modification - will undo the the change
+=======
+>>>>>>> parent of 11c8c05... meanigfull modification
