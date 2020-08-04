@@ -19,3 +19,5 @@ tmp
 usr
 vagrant
 var
+I am making changes on the master branch
+Making changes on feature1 branch
